@@ -1,0 +1,15 @@
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\bin\Debug\net6.0\Proga1.exe
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\bin\Debug\net6.0\Proga1.deps.json
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\bin\Debug\net6.0\Proga1.runtimeconfig.json
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\bin\Debug\net6.0\Proga1.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\bin\Debug\net6.0\Proga1.pdb
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\obj\Debug\net6.0\Proga1.csproj.AssemblyReference.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\obj\Debug\net6.0\Proga1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\obj\Debug\net6.0\Proga1.AssemblyInfoInputs.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\obj\Debug\net6.0\Proga1.AssemblyInfo.cs
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\obj\Debug\net6.0\Proga1.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\obj\Debug\net6.0\Proga1.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\obj\Debug\net6.0\refint\Proga1.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\obj\Debug\net6.0\Proga1.pdb
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\obj\Debug\net6.0\Proga1.genruntimeconfig.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_06\Proga1\obj\Debug\net6.0\ref\Proga1.dll
